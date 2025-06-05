@@ -1,4 +1,4 @@
-Things I do to a QRadar system once it's setup - Work in Progress
+Things I do to a QRadar system once it's setup - Work in Progress :dragon:
 
 1. Install the system on proxmox/vmware/etc with at least 4 CPU 24GB of RAM
 2. Change auth setting time out to a longer timeframe in Admin -> Authentication -> Session Management
